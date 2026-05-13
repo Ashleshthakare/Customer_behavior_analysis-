@@ -112,4 +112,4 @@ Marketing Analyst roles
 Business Analyst / Consulting roles
 📬 Connect With Me
 
-If you’re interested in data-driven marketing and analytics, feel free to connect on LinkedIn 🚀
+If you’re interested in data-driven marketing and analytics, feel free to connect on LinkedIn:https://www.linkedin.com/in/ashlesh-thakare1917

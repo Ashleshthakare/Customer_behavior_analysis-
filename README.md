@@ -93,6 +93,7 @@ Certain products are highly dependent on discounts
 Python (Pandas, Data Cleaning)
 SQL (PostgreSQL)
 Power BI (Dashboard & Visualization)
+
 📁 Project Structure
 ├── data/                 # Raw & cleaned datasets
 ├── notebooks/           # Python analysis notebooks
